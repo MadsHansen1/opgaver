@@ -1,4 +1,4 @@
-
+//Dette ville være dejligt hvis der ville være nogle flere forklaringer efter hver funktion og instruktion. Da det ellers kan komme til at virke lidt uoverksueligt.//
 
 
 void setup(){
