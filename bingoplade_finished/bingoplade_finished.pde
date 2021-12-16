@@ -35,7 +35,7 @@ void setup() {
 
 
   // Log på server og send navn plus bingoplade som string
-  myClient = new Client(this, "127.0.0.1", 5204); 
+  myClient = new Client(this, "10.178.144.19", 5204); 
   // send til server
   myClient.write(s);
 }
