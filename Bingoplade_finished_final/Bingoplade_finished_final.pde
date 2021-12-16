@@ -15,7 +15,7 @@ int PADDING = 20;
 int BINGO_ROWS = 3; // maks 9, kan godt være 10, hvis man fjerner særtilfælden
 int BINGO_COLUMNS = 9;
 String name = "Mads Hansen";
-String nickName = "Müggchen";
+String nickName = "Muggi";
 //
 
 
